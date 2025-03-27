@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @redAdjective
+- 👋 Hi, I’m Aditya
   
 - 👀 I’m interested in anything interesting
   
 - 🌱 I’m currently learning Bachelor of Game Design and Development
   
-- 💞️ I’m looking to collaborate on wherever yo 
+- 💞️ I’m looking to collaborate on projects to help me build a portfolio
   
 - 📫 How to reach me
   Email: aditya.verma@students.mq.edu.au
